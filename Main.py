@@ -44,62 +44,62 @@ if os.path.exists(last_index_file):
 # Tus 10 mensajes personalizados
 messages = [
     # Mensaje 1
-    """Hola Doc, ¿cómo estás?
+    """Hola Doc, espero que estés bien. Soy Dominic, de Isiona.
 Estoy ayudando a clínicas odontológicas a tener una página web profesional y clara.
 Una buena web te permite atraer nuevos pacientes y mostrar tu trabajo con confianza.
 ¿Querés que te cuente más detalles?""",
 
     # Mensaje 2
-    """¡Buen día Doc!
+    """¡Buen día Doc! Te saluda Dominic desde Isiona.
 Me dedico a crear sitios web que reflejan el profesionalismo de clínicas como la tuya.
 Con una página clara y profesional, tus pacientes encuentran más fácil a tu clínica.
 Si te interesa, te paso info sin compromiso.""",
 
     # Mensaje 3
-    """Hola Doc, me tomo un momento para escribirte.
+    """Hola Doc, me tomo un momento para escribirte. De paso me presento: soy Dominic, de Isiona.
 Trabajo armando páginas web para odontólogos que buscan destacar online.
 Hoy más que nunca, tener presencia online bien cuidada es clave para crecer.
 ¿Te gustaría saber cómo lo trabajo?""",
 
     # Mensaje 4
-    """Doc, ¿cómo viene tu semana?
+    """Buenos días Doc, ¿cómo viene tu semana? Te saluda Dominic, de Isiona.
 Ayudo a clínicas a posicionarse mejor en Google con un sitio web a medida.
 Un sitio web es tu carta de presentación digital: conviene que sea impecable.
 Estoy a disposición si querés más info.""",
 
     # Mensaje 5
-    """Hola Doc, espero que estés teniendo un buen día.
+    """Hola Doc, espero que estés teniendo un buen día. Soy Dominic, de Isiona.
 Desarrollo sitios web pensados especialmente para clínicas odontológicas modernas.
 Muchos pacientes eligen su odontólogo por lo que ven en internet. Estar bien posicionado ayuda mucho.
 ¿Querés ver cómo podría aplicarse a tu clínica?""",
 
     # Mensaje 6
-    """Hola Doc, ¿cómo estás?
-Me dedico a crear sitios web que reflejan el profesionalismo de clínicas como la tuya.
+    """Hola Doc, espero que estés bien.
+Soy Dominic, Isiona, y junto con nuestro equipo nos dedicamos a crear sitios web que reflejan el profesionalismo de clínicas como la tuya.
 Una buena web te permite atraer nuevos pacientes y mostrar tu trabajo con confianza.
 ¿Querés que te cuente más detalles?""",
 
     # Mensaje 7
-    """¡Buen día Doc!
+    """¡Buen día Doc! Soy Dominic saludando desde Isiona.
 Trabajo armando páginas web para odontólogos que buscan destacar online.
 Con una página clara y profesional, tus pacientes encuentran más fácil a tu clínica.
 Si te interesa, te paso info sin compromiso.""",
 
     # Mensaje 8
-    """Hola Doc, me tomo un momento para escribirte.
+    """Hola Doc, me tomo un momento para escribirte. Me presento: soy Dominic, de Isiona.
 Ayudo a clínicas a posicionarse mejor en Google con un sitio web a medida.
 Hoy más que nunca, tener presencia online bien cuidada es clave para crecer.
 ¿Te gustaría saber cómo lo trabajo?""",
 
     # Mensaje 9
-    """Doc, ¿cómo viene tu semana?
+    """Doc, ¿cómo viene tu semana? Soy Dominic, de Isiona.
 Desarrollo sitios web pensados especialmente para clínicas odontológicas modernas.
 Un sitio web es tu carta de presentación digital: conviene que sea impecable.
 Estoy a disposición si querés más info.""",
 
     # Mensaje 10
     """Hola Doc, espero que estés teniendo un buen día.
-Estoy ayudando a clínicas odontológicas a tener una página web profesional y clara.
+Soy Dominic de Isiona, y estoy ayudando a clínicas odontológicas a tener una página web profesional y clara.
 Muchos pacientes eligen su odontólogo por lo que ven en internet. Estar bien posicionado ayuda mucho.
 ¿Querés ver cómo podría aplicarse a tu clínica?"""
 ]
